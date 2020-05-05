@@ -1,0 +1,15 @@
+.page-template {
+  margin     : 0 auto;
+  padding-top: 5rem;
+  width      : 500px;
+
+  &-title {
+    text-align    : center;
+    padding-bottom: 2rem;
+    font-size     : 3rem;
+
+    &-text {
+      font-size: 2rem;
+    }
+  }
+}
