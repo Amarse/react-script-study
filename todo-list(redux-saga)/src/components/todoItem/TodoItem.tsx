@@ -10,7 +10,7 @@ interface TodoItemProps {
 
 const TodoItem: React.FC<TodoItemProps> = ({ children, done, onRemove, onToggle }) => {
     return (
-        <div className="todo-list">
+        <div className="todo-list" onClick={onToggle}>
             <div className="checkbox">
                 <label htmlFor="deletebox" className="checkbox">
                     <input type="checkbox" id="deletebox"
