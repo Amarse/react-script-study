@@ -17,7 +17,7 @@
 책: 타입스크립트 퀵 스타트
   http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186710302&orderClick=LAG&Kc=
 
--react 에 대해 배운점
+- react 에 대해 배운점
 컴포넌트
 이벤트 핸들링
 ref: DOM에 이름 달기
